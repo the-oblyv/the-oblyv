@@ -98,7 +98,8 @@
 ---
 
 ## 🛠️ Skills
-HTML And CSS
+- HTML and CSS
+
 ---
 
 ## 💼 Projects
@@ -120,3 +121,4 @@ HTML And CSS
 ---
 
 </div>
+

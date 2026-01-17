@@ -105,7 +105,7 @@
 ## 💼 Projects
 | Project | Description | Link |
 |---------|-------------|------|
-| **Voltage** | Your Favorite Game Site| [View](https://github.com/the-oblyv/voltage.) |
+| **Blocksi** | Your Favorite Game Site| [View](https://github.com/BlocksiUNBLOCKED/BlocksiUNBLOCKED.github.io) |
 
 ---
 
@@ -121,4 +121,5 @@
 ---
 
 </div>
+
 

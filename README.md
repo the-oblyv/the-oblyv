@@ -79,7 +79,7 @@
             <p>I'm learning TypeScript currently. I make random projects but I'm planning to find something to stick with and keep updating.</p>
         </div>
         <div class="links">
-            <a href="mailto:cheetopowder.guy@proton.me" target="_blank">Email</a>
+            <a href="mailto:me@gmac.foo.ng" target="_blank">Email</a>
             <a href="https://discord.com/users/1112141576915923156" target="_blank">Discord</a>
         </div>
     </div>
@@ -99,13 +99,14 @@
 
 ## 🛠️ Skills
 - HTML and CSS
+- JS (and some TS)
 
 ---
 
 ## 💼 Projects
 | Project | Description | Link |
 |---------|-------------|------|
-| **Blocksi** | Your Favorite Game Site| [View](https://github.com/BlocksiUNBLOCKED/BlocksiUNBLOCKED.github.io) |
+| **Orbit** | Your Favorite Game Site| [View](https://github.com/the-oblyv/OrbitUBG) |
 
 ---
 
@@ -115,11 +116,12 @@
 ---
 
 ## 📫 Contact Me
-- Email: cheetopowder.guy@proton.me
+- Email: me@gmac.foo.ng
 - Discord: atablockguy
 
 ---
 
 </div>
+
 
 

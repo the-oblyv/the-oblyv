@@ -106,7 +106,7 @@
 ## 💼 Projects
 | Project | Description | Link |
 |---------|-------------|------|
-| **Orbit** | Your Favorite Game Site| [View](https://github.com/the-oblyv/OrbitUBG) |
+| **Orbit** | Your gateway to unblocked games.| [View](https://github.com/the-oblyv/OrbitUBG) |
 
 ---
 
@@ -122,6 +122,7 @@
 ---
 
 </div>
+
 
 
 

@@ -117,7 +117,7 @@
 
 ## 📫 Contact Me
 - Email: me@gmac.foo.ng
-- Discord: atablockguy
+- Discord: gm.ac
 
 ---
 
